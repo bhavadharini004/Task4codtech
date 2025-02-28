@@ -17,5 +17,4 @@ The task,E-Learning Platform UI, requires designing a front-end user interface f
 
 ## OUTPUT
 ![Image](https://github.com/user-attachments/assets/c73e066b-f9d2-4035-8b46-bd89dfb6b86d) 
-
 ![Image](https://github.com/user-attachments/assets/086ba231-c92b-452f-848d-76064c6fb1c4)
